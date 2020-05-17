@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15151" started-at="2020-05-17T05:27:14Z" finished-at="2020-05-17T05:27:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15151" started-at="2020-05-17T05:27:14Z" finished-at="2020-05-17T05:27:29Z">
+      <class name="TestPages.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestPages.HomePageTest@53e211ee]" name="SetUp" is-config="true" duration-ms="6428" started-at="2020-05-17T05:27:14Z" finished-at="2020-05-17T05:27:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="applePlayer()[pri:4, instance:TestPages.HomePageTest@53e211ee]" name="applePlayer" duration-ms="8392" started-at="2020-05-17T05:27:21Z" description="ApplePlayerisDisplayed" finished-at="2020-05-17T05:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applePlayer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestPages.HomePageTest@53e211ee]" name="tearDown" is-config="true" duration-ms="160" started-at="2020-05-17T05:27:29Z" finished-at="2020-05-17T05:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestPages.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
